@@ -110,6 +110,7 @@ next_btn = ttk.Button(
     state="disabled"
 )
 next_btn.pack(pady=10)
+#Anushka
 
 # Initialize the current question index
 current_question = 0
