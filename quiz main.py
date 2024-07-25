@@ -119,4 +119,3 @@ show_question()
 
 # Start the main event loop
 root.mainloop()
-#deva
